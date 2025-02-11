@@ -22,6 +22,10 @@ project:
     #  token: test-secret
   plugins:
     - schedule.mjs
+  toc:
+    - file: index.md
+    #- file: syllabus.md
+
 site:
   template: book-theme
   title: 'Stat 206b'
