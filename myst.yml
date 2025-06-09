@@ -31,6 +31,7 @@ site:
   title: 'Stat 206b'
   options:
     logo: 'stat_bear.png'
+    analytics_google: "G-NJFDH10W8G"
   nav: []
   actions:
     #- title: Ed
